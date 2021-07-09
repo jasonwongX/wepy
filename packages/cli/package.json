@@ -43,7 +43,7 @@
     "download": "^6.2.5",
     "download-git-repo": "^1.0.2",
     "enhanced-resolve": "^4.0.0-beta.4",
-    "handlebars": "^4.0.11",
+    "handlebars": "^4.7.7",
     "hash-sum": "^1.0.2",
     "htmlhint": "^0.9.13",
     "htmlparser2": "^3.9.2",
