@@ -12,7 +12,7 @@
   "author": "Gcaufy",
   "license": "MIT",
   "dependencies": {
-    "loader-utils": "^1.1.0",
+    "loader-utils": "^1.4.0",
     "node-sass": "^4.0.0"
   },
   "devDependencies": {
